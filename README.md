@@ -16,8 +16,8 @@
 </ul>
 <h4> Contoh simulasi program : </h4>
 <ul>
-  <li> Proses     Waktu Kedatangan      Waktu Eksekusi      Waktu Selesai       Waktu Proses      Waktu Tunggu </li>
-  <li> P[0]             0                     8                  25                  25                 17     </li>
+  <li> Proses\t\t\tWaktu Kedatangan\t\t\tWaktu Eksekusi\t\t\tWaktu Selesai\t\t\tWaktu Proses\t\t\tWaktu Tunggu </li>
+  <li> P[0]\t\t\t0\t\t\t8\t\t\t25\t\t\t25\t\t\t17     </li>
   <li> P[1]             1                     5                  11                  10                 5     </li>
   <li> P[2]             2                    10                  29                  27                 17     </li>
   <li> P[3]             3                    11                  34                  31                 20     </li>
