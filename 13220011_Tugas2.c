@@ -70,5 +70,7 @@ int main()
       avg_w_proses = w_proses * 1.0 / n_proses;
       printf("\n\nRata-Rata Waktu Proses:\t%f", avg_w_proses);
       printf("\nRata-Rata Waktu Tunggu:\t%f\n", avg_w_tunggu);
+      printf("\n--Tekan tombol apapun untuk keluar dari program!--\n");
+      getch();
       return 0;
 }
